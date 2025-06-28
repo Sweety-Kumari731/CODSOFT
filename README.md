@@ -55,7 +55,7 @@ This repository contains all the tasks completed as part of the **Data Science I
 
 ## 📌 Author
 
-**[Friend's Name]**  
+**Sweety Kumari**  
 [GitHub](https://github.com/Sweety-Kumari731/CODSOFT)
 
 ---
